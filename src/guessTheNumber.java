@@ -37,5 +37,7 @@ public class guessTheNumber {
                 maxAttempts--;
             }
         }
+
+        sc.close();
     }
 }
