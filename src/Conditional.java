@@ -2,7 +2,7 @@ public class Conditional {
     public static void main(String[] args) {
         int releaseYear = 2022;
         boolean includedInThePlan = false;
-        double filmReviewScore = 8.1;
+        // double movieReviewScore = 8.1;
         String planType = "plus";
 
         if (releaseYear >= 2022) {

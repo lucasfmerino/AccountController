@@ -9,8 +9,8 @@ public class Main {
         boolean includedInThePlan = true;
         System.out.println(includedInThePlan);
 
-        double filmReviewScore = 8.1;
-        System.out.println(filmReviewScore);
+        double movieReviewScore = 8.1;
+        System.out.println(movieReviewScore);
 
         //Média aritimética de 3 notas
         double avarageScore = (9.8 + 6.3 + 8.0) / 3;
