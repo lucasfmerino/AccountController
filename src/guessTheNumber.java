@@ -18,6 +18,7 @@ public class guessTheNumber {
             System.out.println("Dê o seu palpite: ");
 
             checkNumber = sc.nextInt();
+            sc.nextLine(); //Limpar o buffer
 
             if (checkNumber == secretNumber) {
                 System.out.println("Parabéns!! Você acertou. O número secreto é: " + secretNumber);
